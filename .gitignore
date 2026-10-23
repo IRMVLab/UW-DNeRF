@@ -2,6 +2,7 @@ logs/
 /MIGRATION.md
 _configs/
 .DS_Store
+configs\uw_dnerf_paper_settings.txt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
