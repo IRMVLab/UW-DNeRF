@@ -9,6 +9,8 @@ UW-DNeRF reconstructs deformable soft tissues from endoscopic sequences using un
 
 📄 [Paper](https://ieeexplore.ieee.org/document/10922782)
 
+![UW-DNeRF framework: locally-aware deformation, dynamic NeRF, and uncertainty-guided depth supervision](media/uw_dnerf_framework.png)
+
 ## Setup
 
 We recommend using Miniconda with Python 3.10:
